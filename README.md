@@ -3,7 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <h1>A Burger Builder Web Application</h1>
 <br/>
 <h3>Tech Used: React JS, REDUX and Firebase </h3>
-
+<h4>Features</h4>
+<ol>
+<li> User Can Sign In , Authentication implemented with Redux </li>
+<li> User Can Build Their Own Buger, On the basis of what they want </li>
+<li> User Can Enter their Details and Order A Burger </li> 
+</ol>
+<h3>Home Page</h3>
 <h3> A Desktop View </h3>
 <br>
 <img align="center"  src="https://bzfncq.dm.files.1drv.com/y4mlJ9vkCr3mg3Q1YN10VMhBLm3hrP4ov90io3spttajxtfzRhYKJ7lRaL8NWZBMCrtmDFgutzJTaYRNCNOz1khIE7u5tHwm4YaGEC27iv6dX7ba4PWsjSaqPulLp1vbssRtUjAwEPPAeUr1TwZRPnW03K52XXzcksegwIZ-eTN90xOE7rPQyfLYAB36WRxvK3i4uJa4i9lN74T_ZrEqpv2iw?width=1308&height=835&cropmode=none" width="70%"/>
